@@ -1,5 +1,3 @@
 ## Ideal Giants
 
-How to become fully integrated by applying Objectivist epistemology to one's self.
-
-Please view the project [proposal](https://idealgiants.com/proposal/).
+This project is in the EARLY stages. It intends to become a canonical source of theory, practice, and tools for personal integration. There is more to come, later.
